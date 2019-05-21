@@ -1,2 +1,3 @@
-# This repo contains a very simple bash script that allows you to create a folder.
-> Read the assignment for further instructions
+# Met behulp van dit script is het mogelijk om om bestanden aan te maken via een console.
+>  Gebruik hiervoor sh Basiskennis.sh
+
